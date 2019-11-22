@@ -1,0 +1,13 @@
+{
+  "name": "subs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "subtitle": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.9",
+    "@types/subtitle": "^2.0.2"
+  }
+}
